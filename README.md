@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software and Hardware Development
 - 🌱 I’m currently learning many things😂
 - 💞️ I’m looking to collaborate on desktop applications
-- 📫 How to reach me: theterminators541@gmail.com
+- 📫 How to reach me: dshpworks@gmail.com
 
 <!---
 DSHP-tc/DSHP-tc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
